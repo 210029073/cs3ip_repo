@@ -1,5 +1,0 @@
-Entities for Eye Health Application DB:
-
-Users
-Health Record
-Test Record
